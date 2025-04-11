@@ -1,4 +1,4 @@
-# ✅ To-Do List App
+# ✅ To-Do List 
 
 A sleek and interactive **To-Do List** application built using **HTML**, **CSS**, and **JavaScript**. Easily add, delete, and edit tasks to stay organized and boost productivity.
 
@@ -23,10 +23,10 @@ To run this app locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-list-app.git
+   git clone https://github.com/Manasraizada/To-Do-List.git
 2. Navigate to the project folder:
    ```bash
-   cd todo-list-app
+   cd To-Do-List
 3. Start index.html:
    ```bash
    start index.html
